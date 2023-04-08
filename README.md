@@ -4,10 +4,10 @@
 
 - [x] Basic account system
 - [x] Basic post system: upload, delete
-- [ ] Category post
-- [ ] Like, favorite post
-- [ ] User profile
-- [ ] Admin dashboard
+- [x] Category post
+- [x] Like, favorite post
+- [x] User profile
+- [x] Admin dashboard
 
 ### Frontend: React + Tailwindcss
 
